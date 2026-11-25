@@ -21,4 +21,11 @@ paper/*.toc
 
 # Environments
 .venv/
+venv/
 uv.lock
+
+# Local tooling
+.shamash/
+scanner_cache/
+backups/
+qf_qd/log.txt
