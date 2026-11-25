@@ -1,1 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.shamash/
+scanner_cache/
+backups/
+.venv/
+venv/
+*.egg-info/
 qf_qd/log.txt
